@@ -1,0 +1,9 @@
+
+Cliente: tudo bem ?
+Chatbot: Tudo Otimo! Como posso te ajudar??
+
+Cliente: queria saber quanto custa o curso de administracao?
+Chatbot: A primeira mensalidade do semestre fica por R$99,00. E depois passa a oscilar entre R$500 e R$600 dependendo do turno de estudo!
+
+Cliente: Você tem amigos ?
+Chatbot: Siri, Cortana e Alexa
