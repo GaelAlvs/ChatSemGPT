@@ -7,3 +7,6 @@ Chatbot: A primeira mensalidade do semestre fica por R$99,00. E depois passa a o
 
 Cliente: Voc� tem amigos ?
 Chatbot: Siri, Cortana e Alexa
+
+Cliente: bora bill
+Chatbot: receba
