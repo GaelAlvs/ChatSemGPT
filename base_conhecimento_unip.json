@@ -1,242 +1,184 @@
 [
-    {
-      "curso": "Administração",
-      "modalidade": "Presencial",
-      "duracao": "4 anos",
-      "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Brasília", "Manaus", "Goiânia", "Sorocaba", "Jundiaí", "Limeira", "Assis", "Marquês", "Vergueiro", "Tatuapé", "Pinheiros", "Alphaville", "Santana de Parnaíba", "Cidade Universitária", "Anchieta", "Araçatuba", "Araraquara", "Bauru", "Brasília", "Campinas", "Chácara Santo Antônio", "Goiânia", "Indianópolis", "Jundiaí", "Limeira", "Manaus", "Marquês", "Norte", "Paulista", "Pinheiros", "Ribeirão Preto", "Santana de Parnaíba", "Santos", "São José do Rio Pardo", "São José do Rio Preto", "São José dos Campos", "Sorocaba", "Tatuapé", "Vergueiro"],
-      "mensalidade": "R$ 1.200",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/administracao.aspx"
-    },
-    {
-      "curso": "Medicina",
-      "modalidade": "Presencial",
-      "duracao": "6 anos",
-      "unidades": ["São Paulo", "Brasília", "Campinas", "Ribeirão Preto"],
-      "mensalidade": "R$ 9.000",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/medicina.aspx"
-    },
-    {
-      "curso": "Psicologia",
-      "modalidade": "Presencial",
-      "duracao": "5 anos",
-      "unidades": ["São Paulo", "Santos", "Ribeirão Preto"],
-      "mensalidade": "R$ 1.500",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/psicologia.aspx"
-    },
-    {
-      "curso": "Enfermagem",
-      "modalidade": "Presencial",
-      "duracao": "5 anos",
-      "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Brasília", "Manaus", "Goiânia", "Sorocaba", "Jundiaí", "Limeira", "Assis", "Marquês", "Vergueiro", "Tatuapé", "Pinheiros", "Alphaville", "Santana de Parnaíba", "Cidade Universitária", "Anchieta", "Araçatuba", "Araraquara", "Bauru", "Brasília", "Campinas", "Chácara Santo Antônio", "Goiânia", "Indianópolis", "Jundiaí", "Limeira", "Manaus", "Marquês", "Norte", "Paulista", "Pinheiros", "Ribeirão Preto", "Santana de Parnaíba", "Santos", "São José do Rio Pardo", "São José do Rio Preto", "São José dos Campos", "Sorocaba", "Tatuapé", "Vergueiro"],
-      "mensalidade": "R$ 1.300",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/enfermagem.aspx"
-    },
-    {
-      "curso": "Educação Física",
-      "modalidade": "Presencial",
-      "duracao": "4 anos",
-      "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Brasília", "Manaus", "Goiânia", "Sorocaba", "Jundiaí", "Limeira", "Assis", "Marquês", "Vergueiro", "Tatuapé", "Pinheiros", "Alphaville", "Santana de Parnaíba", "Cidade Universitária", "Anchieta", "Araçatuba", "Araraquara", "Bauru", "Brasília", "Campinas", "Chácara Santo Antônio", "Goiânia", "Indianópolis", "Jundiaí", "Limeira", "Manaus", "Marquês", "Norte", "Paulista", "Pinheiros", "Ribeirão Preto", "Santana de Parnaíba", "Santos", "São José do Rio Pardo", "São José do Rio Preto", "São José dos Campos", "Sorocaba", "Tatuapé", "Vergueiro"],
-      "mensalidade": "R$ 1.100",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/educacao_fisica.aspx"
-    },
-    {
-      "curso": "Fisioterapia",
-      "modalidade": "Presencial",
-      "duracao": "5 anos",
-      "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Brasília", "Manaus", "Goiânia", "Sorocaba", "Jundiaí", "Limeira", "Assis", "Marquês", "Vergueiro", "Tatuapé", "Pinheiros", "Alphaville", "Santana de Parnaíba", "Cidade Universitária", "Anchieta", "Araçatuba", "Araraquara", "Bauru", "Brasília", "Campinas", "Chácara Santo Antônio", "Goiânia", "Indianópolis", "Jundiaí", "Limeira", "Manaus", "Marquês", "Norte", "Paulista", "Pinheiros", "Ribeirão Preto", "Santana de Parnaíba", "Santos", "São José do Rio Pardo", "São José do Rio Preto", "São José dos Campos", "Sorocaba", "Tatuapé", "Vergueiro"],
-      "mensalidade": "R$ 1.400",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/fisioterapia.aspx"
-    },
-    {
-      "curso": "Nutrição",
-      "modalidade": "Presencial",
-      "duracao": "5 anos",
-      "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Brasília", "Manaus", "Goiânia", "Sorocaba", "Jundiaí", "Limeira", "Assis", "Marquês", "Vergueiro", "Tatuapé", "Pinheiros", "Alphaville", "Santana de Parnaíba", "Cidade Universitária", "Anchieta", "Araçatuba", "Araraquara", "Bauru", "Brasília", "Campinas", "Chácara Santo Antônio", "Goiânia", "Indianópolis", "Jundiaí", "Limeira", "Manaus", "Marquês", "Norte", "Paulista", "Pinheiros", "Ribeirão Preto", "Santana de Parnaíba", "Santos", "São José do Rio Pardo", "São José do Rio Preto", "São José dos Campos", "Sorocaba", "Tatuapé", "Vergueiro"],
-      "mensalidade": "R$ 1.500",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/nutricao.aspx"
-    },
-    {
-      "curso": "Gestão de Pessoas/RH",
-      "modalidade": "Presencial",
-      "duracao": "4 anos",
-      "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Brasília", "Manaus", "Goiânia", "Sorocaba", "Jundiaí", "Limeira", "Assis", "Marquês", "Vergueiro", "Tatuapé", "Pinheiros", "Alphaville", "Santana de Parnaíba", "Cidade Universitária", "Anchieta", "Araçatuba", "Araraquara", "Bauru", "Brasília", "Campinas", "Chácara Santo Antônio", "Goiânia", "Indianópolis", "Jundiaí", "Limeira", "Manaus", "Marquês", "Norte", "Paulista", "Pinheiros", "Ribeirão Preto", "Santana de Parnaíba", "Santos", "São José do Rio Pardo", "São José do Rio Preto", "São José dos Campos", "Sorocaba", "Tatuapé", "Vergueiro"],
-      "mensalidade": "R$ 1.250",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/gestao-de-pessoas.aspx"
-    },
-    {
-      "curso": "Odontologia",
-      "modalidade": "Presencial",
-      "duracao": "5 anos",
-      "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Brasília", "Manaus", "Goiânia", "Sorocaba", "Jundiaí", "Limeira", "Assis", "Marquês", "Vergueiro", "Tatuapé", "Pinheiros", "Alphaville", "Santana de Parnaíba", "Cidade Universitária", "Anchieta", "Araçatuba", "Araraquara", "Bauru", "Brasília", "Campinas", "Chácara Santo Antônio", "Goiânia", "Indianópolis", "Jundiaí", "Limeira", "Manaus", "Marquês", "Norte", "Paulista", "Pinheiros", "Ribeirão Preto", "Santana de Parnaíba", "Santos", "São José do Rio Pardo", "São José do Rio Preto", "São José dos Campos", "Sorocaba", "Tatuapé", "Vergueiro"],
-      "mensalidade": "R$ 3.500",
-      "link": "https://www.unip.br/cursos/graduacao/tradicionais/odontologia.aspx"
-    },
-    {
+  {
+    "curso": "Administração",
+    "modalidade": "Presencial",
+    "duracao": "4 anos",
+    "mensalidade": "R$ 513,60",
+    "link": "https://www.unip.br/cursos/graduacao/tradicionais/administracao.aspx"
+  },
+  {
     "curso": "Análise e Desenvolvimento de Sistemas",
     "modalidade": "Presencial",
-    "duracao": "3 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba", "Ribeirão Preto", "Brasília"],
-    "mensalidade": "R$ 1.000",
-    "link": "https://www.unip.br/cursos/graduacao/tecnologia/analise-e-desenvolvimento-de-sistemas.aspx"
+    "duracao": "2 anos",
+    "mensalidade": "R$ 438,70",
+    "link": "https://unip.br/cursos/graduacao/tecnologicos/analise_desenvolvimento_sistemas.aspx"
+  },
+  {
+    "curso": "Arquitetura e Urbanismo",
+    "modalidade": "Presencial",
+    "duracao": "5 anos",
+    "mensalidade": "R$ 802,50",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/arquitetura_urbanismo.aspx"
+  },
+  {
+    "curso": "Biomedicina",
+    "modalidade": "Presencial",
+    "duracao": "4 anos",
+    "mensalidade": "R$ 620,60",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/biomedicina.aspx"
   },
   {
     "curso": "Ciência da Computação",
     "modalidade": "Presencial",
     "duracao": "4 anos",
-    "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Sorocaba"],
-    "mensalidade": "R$ 1.500",
-    "link": "https://www.unip.br/cursos/graduacao/tecnologia/ciencia-da-computacao.aspx"
+    "mensalidade": "R$ 568,71",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/ciencia_computacao.aspx"
   },
   {
-    "curso": "Gestão da Tecnologia da Informação",
+    "curso": "Ciências Biológicas",
     "modalidade": "Presencial",
     "duracao": "4 anos",
-    "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Sorocaba"],
-    "mensalidade": "R$ 1.200",
-    "link": "https://www.unip.br/cursos/graduacao/tecnologia/gestao-da-tecnologia-da-informacao.aspx"
+    "mensalidade": "R$ 524,30",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/ciencias_biologicas.aspx"
   },
   {
-    "curso": "Redes de Computadores",
+    "curso": "Ciências Contábeis",
     "modalidade": "Presencial",
-    "duracao": "3 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 1.000",
-    "link": "https://www.unip.br/cursos/graduacao/tecnologia/redes-de-computadores.aspx"
+    "duracao": "4 anos",
+    "mensalidade": "R$ 513,60",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/ciencias_contabeis.aspx"
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "modalidade": "Presencial",
+    "duracao": "4 anos",
+    "mensalidade": "R$ 513,60",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/ciencias_economicas.aspx"
+  },
+  {
+    "curso": "Design Gráfico",
+    "modalidade": "Presencial",
+    "duracao": "2 anos",
+    "mensalidade": "R$ 449,40",
+    "link": "https://unip.br/cursos/graduacao/tecnologicos/design_grafico.aspx"
+  },
+  {
+    "curso": "Direito",
+    "modalidade": "Presencial",
+    "duracao": "5 anos",
+    "mensalidade": "R$ 684,80",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/direito.aspx"
+  },
+  {
+    "curso": "Educação Física",
+    "modalidade": "Presencial",
+    "duracao": "4 anos",
+    "mensalidade": "R$ 535,00",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/educacao_fisica.aspx"
+  },
+  {
+    "curso": "Enfermagem",
+    "modalidade": "Presencial",
+    "duracao": "4 anos",
+    "mensalidade": "R$ 663,40",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/enfermagem.aspx"
   },
   {
     "curso": "Engenharia Civil",
     "modalidade": "Presencial",
     "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Sorocaba"],
-    "mensalidade": "R$ 2.500",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-civil.aspx"
-  },
-  {
-    "curso": "Engenharia Elétrica",
-    "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.600",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-eletrica.aspx"
+    "mensalidade": "R$ 749,00",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/engenharia_civil.aspx"
   },
   {
     "curso": "Engenharia Mecânica",
     "modalidade": "Presencial",
     "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.700",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-mecanica.aspx"
+    "mensalidade": "R$ 727,60",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/engenharia_mecanica.aspx"
   },
   {
-    "curso": "Engenharia de Produção",
-    "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Sorocaba"],
-    "mensalidade": "R$ 2.500",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-de-producao.aspx"
-  },
-  {
-    "curso": "Engenharia de Computação",
-    "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.600",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-de-computacao.aspx"
-  },
-  {
-    "curso": "Engenharia Química",
-    "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.800",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-quimica.aspx"
-  },
-{
-    "curso": "Análise e Desenvolvimento de Sistemas",
+    "curso": "Estética e Cosmética",
     "modalidade": "Presencial",
     "duracao": "3 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba", "Ribeirão Preto", "Brasília"],
-    "mensalidade": "R$ 1.000",
-    "link": "https://www.unip.br/cursos/graduacao/tecnologia/analise-e-desenvolvimento-de-sistemas.aspx"
+    "mensalidade": "R$ 481,50",
+    "link": "https://unip.br/cursos/graduacao/tecnologicos/estetica_cosmetica.aspx"
   },
   {
-    "curso": "Ciência da Computação",
+    "curso": "Fisioterapia",
     "modalidade": "Presencial",
     "duracao": "4 anos",
-    "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Sorocaba"],
-    "mensalidade": "R$ 1.500",
-    "link": "https://www.unip.br/cursos/graduacao/tecnologia/ciencia-da-computacao.aspx"
+    "mensalidade": "R$ 620,60",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/fisioterapia.aspx"
   },
   {
     "curso": "Gestão da Tecnologia da Informação",
     "modalidade": "Presencial",
+    "duracao": "2 anos",
+    "mensalidade": "R$ 500,00",
+    "link": "https://unip.br/cursos/graduacao/tecnologicos/gestao_tecnologia_informacao.aspx"
+  },
+  {
+    "curso": "Gestão de Recursos Humanos",
+    "modalidade": "Presencial",
+    "duracao": "2 anos",
+    "mensalidade": "R$ 449,40",
+    "link": "https://unip.br/cursos/graduacao/tecnologicos/gestao_recursos_humanos.aspx"
+  },
+  {
+    "curso": "Gestão Financeira",
+    "modalidade": "Presencial",
+    "duracao": "2 anos",
+    "mensalidade": "R$ 428,00",
+    "link": "https://unip.br/cursos/graduacao/tecnologicos/gestao_financeira.aspx"
+  },
+  {
+    "curso": "Jornalismo",
+    "modalidade": "Presencial",
     "duracao": "4 anos",
-    "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Sorocaba"],
-    "mensalidade": "R$ 1.200",
-    "link": "https://www.unip.br/cursos/graduacao/tecnologia/gestao-da-tecnologia-da-informacao.aspx"
+    "mensalidade": "R$ 590,20",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/jornalismo.aspx"
   },
   {
-    "curso": "Redes de Computadores",
+    "curso": "Logística",
     "modalidade": "Presencial",
-    "duracao": "3 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 1.000",
-    "link": "https://www.unip.br/cursos/graduacao/tecnologia/redes-de-computadores.aspx"
+    "duracao": "2 anos",
+    "mensalidade": "R$ 428,00",
+    "link": "https://unip.br/cursos/graduacao/tecnologicos/logistica.aspx"
   },
   {
-    "curso": "Engenharia Civil",
+    "curso": "Nutrição",
     "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Sorocaba"],
-    "mensalidade": "R$ 2.500",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-civil.aspx"
+    "duracao": "4 anos",
+    "mensalidade": "R$ 520,40",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/nutricao.aspx"
   },
   {
-    "curso": "Engenharia Elétrica",
+    "curso": "Pedagogia",
     "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.600",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-eletrica.aspx"
+    "duracao": "4 anos",
+    "mensalidade": "R$ 588,50",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/pedagogia.aspx"
   },
   {
-    "curso": "Engenharia Mecânica",
+    "curso": "Psicologia",
     "modalidade": "Presencial",
     "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.700",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-mecanica.aspx"
+    "mensalidade": "R$ 663,40",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/psicologia.aspx"
   },
   {
-    "curso": "Engenharia de Produção",
+    "curso": "Publicidade e Propaganda",
     "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Ribeirão Preto", "Sorocaba"],
-    "mensalidade": "R$ 2.500",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-de-producao.aspx"
+    "duracao": "4 anos",
+    "mensalidade": "R$ 588,50",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/comunicacao_social_publicidade.aspx"
   },
   {
-    "curso": "Engenharia de Computação",
+    "curso": "Sistemas de Informação",
     "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.600",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-de-computacao.aspx"
-  },
-  {
-    "curso": "Engenharia Química",
-    "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.800",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-quimica.aspx"
-  },
-  {
-    "curso": "Engenharia de Software",
-    "modalidade": "Presencial",
-    "duracao": "5 anos",
-    "unidades": ["São Paulo", "Campinas", "Sorocaba"],
-    "mensalidade": "R$ 2.600",
-    "link": "https://www.unip.br/cursos/graduacao/engenharia/engenharia-de-software.aspx"
+    "duracao": "4 anos",
+    "mensalidade": "R$ 642,00",
+    "link": "https://unip.br/cursos/graduacao/tradicionais/sistemas_informacao.aspx"
   }
-  ]
+]
