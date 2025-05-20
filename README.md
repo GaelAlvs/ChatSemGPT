@@ -18,3 +18,5 @@ guia o Chat Sem GPT em como responder a mesma mensagem futuramente.
 - Linguagem de Programação [Python]
 - Biblioteca de interface gráfica [TKinter]
 - Base de Conhecimento
+
+# TatuChat
