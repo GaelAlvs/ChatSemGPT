@@ -20,3 +20,5 @@ guia o Chat Sem GPT em como responder a mesma mensagem futuramente.
 - Base de Conhecimento
 
 # TatuChat
+
+O código foi refatorado e adaptado para não mais ser um ChatBot, mas sim um chat 'pensante'
