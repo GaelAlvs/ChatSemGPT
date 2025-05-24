@@ -28,3 +28,11 @@ ChatBot x Agente de Inteligência Artificial
 ChatBot - Chat com mensagens pré-estabelecidas, onde o usuário escolhe uma mensagem específica para um problema dentro de um conjunto de perguntas disponibilizadas pelo ChatBot. E com base na pergunta escolhida o ChatBot trabalhará em cima dela.
 
 Agente de Inteligência Artificial - Diferentemente do ChatBot, um agente de IA é capaz de pensar e analisar uma pergunta que o próprio usuário criar, ou seja, não são perguntas estabelecidas previamente, o próprio usuário gera a dúvida que possuir.
+
+# Bibliotecas Utilizadas
+
+Tkinter - Biblioteca para criação de componentes gráficos no código, em resumo, é uma biblioteca para deixar o projeto mais apresentável.
+
+Requests - Para que seja possível realizar a requisição da API para o projeto, é necessário a biblioteca ‘Requests’, que como o próprio nome sugere, requisita alguma coisa.
+
+JSON (JavaScript Object Notation) - Não é uma biblioteca, mas é o arquivo onde contém todas informações dos cursos da UNIP Tatuapé.
