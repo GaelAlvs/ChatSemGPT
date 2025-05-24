@@ -22,3 +22,9 @@ guia o Chat Sem GPT em como responder a mesma mensagem futuramente.
 # TatuChat
 
 O código foi refatorado e adaptado para não mais ser um ChatBot, mas sim um chat 'pensante'
+
+ChatBot x Agente de Inteligência Artificial
+
+ChatBot - Chat com mensagens pré-estabelecidas, onde o usuário escolhe uma mensagem específica para um problema dentro de um conjunto de perguntas disponibilizadas pelo ChatBot. E com base na pergunta escolhida o ChatBot trabalhará em cima dela.
+
+Agente de Inteligência Artificial - Diferentemente do ChatBot, um agente de IA é capaz de pensar e analisar uma pergunta que o próprio usuário criar, ou seja, não são perguntas estabelecidas previamente, o próprio usuário gera a dúvida que possuir.
